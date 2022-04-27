@@ -1,6 +1,20 @@
 {
-	"name": "CJ - Dark Horizon",
-	"type": "dark",
+	"name": "Dark Horizon",
+	"displayName":"dark-horizon",
+  	"version":"1.0.0",
+  	"Publisher":"ArcHome",
+  	"type": "dark",
+ 	"repository":{
+		 "type":"git",
+		"url":"https://github.com/christojohnsonv/DarkHorizonTheme-VSCode"
+	},
+	"keywords":[
+	  "dark",
+	  "theme",
+	  "darkhorizon",
+	  "archome",
+	  "christojohnsonv"
+  	],
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
 	  "enumMember": {
