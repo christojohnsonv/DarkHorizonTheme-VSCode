@@ -1,0 +1,21 @@
+{
+    "name": "dark-horizon",
+    "displayName": "DarkHorizon",
+    "description": "dark theme for coders",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Horizon",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark Horizon-color-theme.json"
+            }
+        ]
+    }
+}
